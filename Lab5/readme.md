@@ -72,16 +72,26 @@ The purpose of access control list and role based access control is to ensure th
 In the public key the sender must have a public key to send message, the ciphertext is the encrypted message and the private key use by the receiver to decrypt the message. This requires the sender and receiver to have private key and public key.
 
 #### Public Key Cryptography
-Public key is used to encrypt a message that is sent
+Public key is used to encrypt a message that is sent.
+Caesar Cipher Exploration was basically they moved the letter a certain numbers. When relaying message; that required the receiver to decipher it.
 
 ### Cryptography
+Is basically a method of encrypting a message so no one but the sender and receiver will  understand.
+
 #### Encryption
+Encryption is a method of encrypting a message so no one can read it. In public key encryption, two keys are used: a public key and a private key. To send an encrypted message, you obtain the public key, encode the message, and send it. The recipient then uses their private key to decode it. The public key can be given to anyone who wishes to send the recipient a message. Each user simply needs one private key and one public key in order to secure messages. The private key is necessary in order to decrypt a message sent with the public key.
+
 #### Frequency Fingerprint
+Is basically a frequency of your communication. Most people follow a pattern when communicating. The frequency fingerprint would be different in another language but it would follow the same principles of frequency fingerprint.
+
 #### Polyalphabetic Cipher
+Is any cipher based on substitution, using multiple substitution alphabets. The vigenere cipher is probably the best known example.
+
 #### Polyalphabetic Example
+An example of this is the vigenere cipher.
 
 #### Brute-Force
+Is used to decipher Caesar cipher. A brute-force attack tries every possible decryption key for a cipher. Nothing stops a cryptanalyst from guessing one key, decrypting the ciphertext with that key, looking at the output, and then moving on to the next key if they didn’t find the secret message. Because the brute-force technique is so effective against the Caesar cipher, you shouldn’t actually use the Caesar cipher to encrypt secret information
 
 ## Conclusion
-Include your professional conclusion here...
-
+In conclusion this section was very interesting it covered identification of networking components of understanding the history and development of network technologies, terns of network technologies, importance of broadband technologies and organizational networking. Along with the description of topologies, diagrams and the role of NSA in networking security. The section also defined encryption technologies and approaches to cybersecurity. In addition this section covered the following topics identification of information security triad, identification of high level concepts surrounding information security tools and securing  yourself  digitally.
